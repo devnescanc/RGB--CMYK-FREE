@@ -1,0 +1,6 @@
+{
+  "name": "Chromartisan RGB-CMYK Studio for Adobe Illustrator",
+  "description": "Herramienta profesional de conversión precisa de color RGB a CMYK para Adobe Illustrator con perfiles ICC, motor Delta-E 2000, simulación de gama de impresión y plugin ejecutable .JSX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
